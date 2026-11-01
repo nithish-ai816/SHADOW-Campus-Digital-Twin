@@ -1,0 +1,25 @@
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Streamlit secrets (Do not expose private passwords on GitHub)
+.streamlit/secrets.toml
+
+# Environment & Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Temporary / Scratch test files
+test.mp4
+test.webm
+test_sample.webp
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
