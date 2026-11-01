@@ -1,0 +1,448 @@
+{
+  "blocks": [
+    "A",
+    "B",
+    "C"
+  ],
+  "rooms": [
+    {
+      "room": "A-101",
+      "block": "A",
+      "status": "Normal",
+      "power": 1.8,
+      "voltage": 230.0,
+      "capacity": 40,
+      "faculty": [
+        {
+          "role": "Advisor",
+          "name": "",
+          "email": ""
+        },
+        {
+          "role": "Mentor 1",
+          "name": "",
+          "email": ""
+        },
+        {
+          "role": "Mentor 2",
+          "name": "",
+          "email": ""
+        }
+      ]
+    },
+    {
+      "room": "A-102",
+      "block": "A",
+      "status": "Normal",
+      "power": 2.0,
+      "voltage": 231.0,
+      "capacity": 40,
+      "faculty": [
+        {
+          "role": "Advisor",
+          "name": "",
+          "email": ""
+        },
+        {
+          "role": "Mentor 1",
+          "name": "",
+          "email": ""
+        },
+        {
+          "role": "Mentor 2",
+          "name": "",
+          "email": ""
+        }
+      ]
+    },
+    {
+      "room": "A-103",
+      "block": "A",
+      "status": "Warning",
+      "power": 4.2,
+      "voltage": 230.0,
+      "capacity": 40,
+      "faculty": [
+        {
+          "role": "Advisor",
+          "name": "",
+          "email": ""
+        },
+        {
+          "role": "Mentor 1",
+          "name": "",
+          "email": ""
+        },
+        {
+          "role": "Mentor 2",
+          "name": "",
+          "email": ""
+        }
+      ]
+    },
+    {
+      "room": "A-104",
+      "block": "A",
+      "status": "High Consumption",
+      "power": 6.1,
+      "voltage": 230.0,
+      "capacity": 40,
+      "faculty": [
+        {
+          "role": "Advisor",
+          "name": "",
+          "email": ""
+        },
+        {
+          "role": "Mentor 1",
+          "name": "",
+          "email": ""
+        },
+        {
+          "role": "Mentor 2",
+          "name": "",
+          "email": ""
+        }
+      ]
+    },
+    {
+      "room": "B-101",
+      "block": "B",
+      "status": "Normal",
+      "power": 2.1,
+      "voltage": 229.0,
+      "capacity": 35,
+      "faculty": [
+        {
+          "role": "Advisor",
+          "name": "",
+          "email": ""
+        },
+        {
+          "role": "Mentor 1",
+          "name": "",
+          "email": ""
+        },
+        {
+          "role": "Mentor 2",
+          "name": "",
+          "email": ""
+        }
+      ]
+    },
+    {
+      "room": "B-102",
+      "block": "B",
+      "status": "Normal",
+      "power": 1.9,
+      "voltage": 230.0,
+      "capacity": 35,
+      "faculty": [
+        {
+          "role": "Advisor",
+          "name": "",
+          "email": ""
+        },
+        {
+          "role": "Mentor 1",
+          "name": "",
+          "email": ""
+        },
+        {
+          "role": "Mentor 2",
+          "name": "",
+          "email": ""
+        }
+      ]
+    },
+    {
+      "room": "B-103",
+      "block": "B",
+      "status": "Warning",
+      "power": 4.5,
+      "voltage": 230.0,
+      "capacity": 35,
+      "faculty": [
+        {
+          "role": "Advisor",
+          "name": "",
+          "email": ""
+        },
+        {
+          "role": "Mentor 1",
+          "name": "",
+          "email": ""
+        },
+        {
+          "role": "Mentor 2",
+          "name": "",
+          "email": ""
+        }
+      ]
+    },
+    {
+      "room": "B-104",
+      "block": "B",
+      "status": "Normal",
+      "power": 2.3,
+      "voltage": 231.0,
+      "capacity": 35,
+      "faculty": [
+        {
+          "role": "Advisor",
+          "name": "",
+          "email": ""
+        },
+        {
+          "role": "Mentor 1",
+          "name": "",
+          "email": ""
+        },
+        {
+          "role": "Mentor 2",
+          "name": "",
+          "email": ""
+        }
+      ]
+    },
+    {
+      "room": "C-101",
+      "block": "C",
+      "status": "Normal",
+      "power": 2.0,
+      "voltage": 230.0,
+      "capacity": 30,
+      "faculty": [
+        {
+          "role": "Advisor",
+          "name": "",
+          "email": ""
+        },
+        {
+          "role": "Mentor 1",
+          "name": "",
+          "email": ""
+        },
+        {
+          "role": "Mentor 2",
+          "name": "",
+          "email": ""
+        }
+      ]
+    },
+    {
+      "room": "C-102",
+      "block": "C",
+      "status": "Warning",
+      "power": 4.1,
+      "voltage": 230.0,
+      "capacity": 30,
+      "faculty": [
+        {
+          "role": "Advisor",
+          "name": "",
+          "email": ""
+        },
+        {
+          "role": "Mentor 1",
+          "name": "",
+          "email": ""
+        },
+        {
+          "role": "Mentor 2",
+          "name": "",
+          "email": ""
+        }
+      ]
+    },
+    {
+      "room": "C-103",
+      "block": "C",
+      "status": "High Consumption",
+      "power": 5.7,
+      "voltage": 229.0,
+      "capacity": 30,
+      "faculty": [
+        {
+          "role": "Advisor",
+          "name": "",
+          "email": ""
+        },
+        {
+          "role": "Mentor 1",
+          "name": "",
+          "email": ""
+        },
+        {
+          "role": "Mentor 2",
+          "name": "",
+          "email": ""
+        }
+      ]
+    },
+    {
+      "room": "C-104",
+      "block": "C",
+      "status": "Offline",
+      "power": 0.0,
+      "voltage": 0.0,
+      "capacity": 30,
+      "faculty": [
+        {
+          "role": "Advisor",
+          "name": "",
+          "email": ""
+        },
+        {
+          "role": "Mentor 1",
+          "name": "",
+          "email": ""
+        },
+        {
+          "role": "Mentor 2",
+          "name": "",
+          "email": ""
+        }
+      ]
+    }
+  ],
+  "settings": {
+    "power_warning_kw": 4.0,
+    "power_high_kw": 5.5,
+    "voltage_min": 210.0,
+    "voltage_max": 250.0
+  },
+  "camera_creds": {},
+  "footage": [
+    {
+      "id": "SF001A",
+      "classroom_id": "A-101",
+      "camera_id": "CAM-A101-01",
+      "date": "2024-10-14",
+      "start_time": "09:00:00",
+      "end_time": "09:45:00",
+      "duration": "0h 45m 0s",
+      "filename": "A101_empty_room_energy_waste.mp4",
+      "status": "Processed",
+      "event_type": "Energy Waste (Unoccupied / 4 Fans / 6 Lights ON)",
+      "data": ""
+    },
+    {
+      "id": "SF002A",
+      "classroom_id": "A-102",
+      "camera_id": "CAM-A102-01",
+      "date": "2024-10-14",
+      "start_time": "10:00:00",
+      "end_time": "10:50:00",
+      "duration": "0h 50m 0s",
+      "filename": "A102_lecture_session_occupied.mp4",
+      "status": "Processed",
+      "event_type": "Routine Surveillance (Lecture Active / 20 Students)",
+      "data": ""
+    },
+    {
+      "id": "SF003A",
+      "classroom_id": "A-103",
+      "camera_id": "CAM-A103-01",
+      "date": "2024-10-15",
+      "start_time": "18:30:00",
+      "end_time": "19:15:00",
+      "duration": "0h 45m 0s",
+      "filename": "A103_evening_afterhours_waste.mp4",
+      "status": "Processed",
+      "event_type": "Energy Waste (After-Hours / 0 Occupants / Lights ON)",
+      "data": ""
+    },
+    {
+      "id": "SF004A",
+      "classroom_id": "A-104",
+      "camera_id": "CAM-A104-01",
+      "date": "2024-10-15",
+      "start_time": "14:00:00",
+      "end_time": "14:55:00",
+      "duration": "0h 55m 0s",
+      "filename": "A104_high_power_empty_lab.mp4",
+      "status": "Processed",
+      "event_type": "Critical Energy Waste (Lab Empty / Heavy AC & Fans)",
+      "data": ""
+    },
+    {
+      "id": "SF005B",
+      "classroom_id": "B-101",
+      "camera_id": "CAM-B101-01",
+      "date": "2024-10-16",
+      "start_time": "08:30:00",
+      "end_time": "09:15:00",
+      "duration": "0h 45m 0s",
+      "filename": "B101_morning_lecture_normal.mp4",
+      "status": "Processed",
+      "event_type": "Routine Surveillance (15 Occupants / Normal)",
+      "data": ""
+    },
+    {
+      "id": "SF006B",
+      "classroom_id": "B-102",
+      "camera_id": "CAM-B102-01",
+      "date": "2024-10-16",
+      "start_time": "11:15:00",
+      "end_time": "12:00:00",
+      "duration": "0h 45m 0s",
+      "filename": "B102_single_student_partial_waste.mp4",
+      "status": "Processed",
+      "event_type": "Partial Waste (1 Student / Full Lighting & 6 Fans)",
+      "data": ""
+    },
+    {
+      "id": "SF007B",
+      "classroom_id": "B-103",
+      "camera_id": "CAM-B103-01",
+      "date": "2024-10-16",
+      "start_time": "13:00:00",
+      "end_time": "13:40:00",
+      "duration": "0h 40m 0s",
+      "filename": "B103_lab_ended_unattended.mp4",
+      "status": "Processed",
+      "event_type": "Energy Waste (Post-Lab Unattended / Appliances ON)",
+      "data": ""
+    },
+    {
+      "id": "SF008C",
+      "classroom_id": "C-101",
+      "camera_id": "CAM-C101-01",
+      "date": "2024-10-17",
+      "start_time": "13:00:00",
+      "end_time": "14:00:00",
+      "duration": "1h 00m 0s",
+      "filename": "C101_lunch_break_clean_standby.mp4",
+      "status": "Processed",
+      "event_type": "Audit Baseline (Clean Standby / All Appliances OFF)",
+      "data": ""
+    },
+    {
+      "id": "SF009C",
+      "classroom_id": "C-102",
+      "camera_id": "CAM-C102-01",
+      "date": "2024-10-17",
+      "start_time": "07:45:00",
+      "end_time": "08:30:00",
+      "duration": "0h 45m 0s",
+      "filename": "C102_early_morning_lights_on.mp4",
+      "status": "Processed",
+      "event_type": "Energy Waste (Overnight Lights Left ON / Empty)",
+      "data": ""
+    },
+    {
+      "id": "SF010C",
+      "classroom_id": "C-103",
+      "camera_id": "CAM-C103-01",
+      "date": "2024-10-17",
+      "start_time": "15:00:00",
+      "end_time": "16:30:00",
+      "duration": "1h 30m 0s",
+      "filename": "C103_seminar_hall_high_occupancy.mp4",
+      "status": "Processed",
+      "event_type": "Routine Surveillance (Seminar Hall / 28 Students)",
+      "data": ""
+    }
+  ]
+}
